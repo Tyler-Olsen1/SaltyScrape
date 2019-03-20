@@ -1,0 +1,15 @@
+{
+  "name": "webscrape",
+  "version": "1.0.0",
+  "description": "attempting to learn how to scrape",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Tyler Olsen",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
